@@ -1,1 +1,1 @@
-# traffic_data_analysis
+I defined a function that fetches traffic data from ibb site and converted that raw data first json file than dataframe. Than I add traffic density column to the data frame, we made some calculations. than me made 2 graphs with matplotlib.
